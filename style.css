@@ -1,0 +1,43 @@
+#parraf{
+    color: black;
+    text-align: left;
+  }
+
+  #listanoticias{
+    color: black;
+    text-align: left;
+  }
+
+  #descripcion
+  {
+    margin: 15px rgb(79, 192, 89);
+    text-align: left;
+  
+  }
+  
+  h1{
+      text-align: center;
+      font: serif, serif;
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
+  
+  h2{
+      text-align: center;
+      font: 35px serif, serif;
+      margin-top: 10px;
+      margin-bottom: 10px;
+  }
+  
+  p{
+      color: white;
+      text-align: justify;
+      margin-left: auto;
+      margin-right: auto;
+  }
+  
+  ul{
+      color: white;
+  }
+  
+  
